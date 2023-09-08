@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-spotify-wrapped-test-398417",
+  "private_key_id": "35f546937d410228cb5b36e0dea10cdaccd86791",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCwArd5lmMbNVsQ\n8DHZ+5ApT+jznm+FboZy6a+tFJ+Y6nr5SB/PTKihAHG3qArw/L6b8Gz9TvA4BJoF\nj8wFy/iff3JLZ6JFnKftHUpuxtTBylkFMnx9zy0tmKpOg0yUa22FpIO4icLuzYH0\nOndQYyLWU8XxDZcDOyn1DCugPjpGB1mFJVSZrgd3JH4tmLL6jZ0vSRq5nApSs8NG\nwTgP/HG9ZShBdvful/3pmqtDk/UQXGCbBhknyGNfFGflr1pP30Fc+y3yiQNNKVWs\nanpMi7NJom/bv5lk44XsqBWx6XySf7gTuWSiDUTYh4d7XbkkPUohWyfRMuagAanO\nSKsQvIhxAgMBAAECggEAER9wiTbyxQW5qmINnXzSQ1ybZ2DfTUopcQIwJZzDInmU\nNU5Zjt2QrZoJFhJ2XwedhPbcqX9tkeuLrtUUhm9XjG+19yU5tX82HHSMJk74SXKF\nmsJ0tzoJlX0bu1fdYjZ5wQW2TUR0pu3t8awi6Zp9W/+qGudlLKqrrCPPFi+blG6P\nAekpBfhZRYMR6I4KrN2Sxq9P5NTrzcO9jNNL/xm+lbyFtN7CdxGjGgRBzrYrMXsm\ntsa7aZrMi51JOHszvnIK9kvUK7Bpk7e7Ik0KTXSMpLBGWNZA3n18GrrpiVJoFf2/\nl02+ttFuC/rr9bRP9jP8Lv+5w0wosTJbDzKNFAWZKQKBgQDfLsIIiiJQ4mwgjT/2\nZnd4kpHRwNMmhTmb4jU8HAFm+ky51Bib1/JfTjdYJwkTL87HChGWZLmCR7ZogVDM\nifBV6ezSMlDiC9UT4ZUs3essvlPg/JAPsSpfgFfTSxcC9bKaubrn1PFoOKH9oLNG\n+//vaMMcKUAAbQ959pcqu8d02QKBgQDJ5EQ7PxjTc5NFy6xzhiDeQkcqNXpwzqem\nSdYRh4IDgA0BT5oA41KIAoBY48b64uxiEA+2OsAiIzGnxITFNVnlVmznogVbGvXv\nBpvhL18/fTD+e4CEoMMJ+eWnFzyAp0XSMr8FI0+29vrESWL42Xyiik0epHaznLOw\nSNwlzyaRWQJ/dpBghCjeEho3VxOy5zOIRIWY8dV+VvhvomCJ52T5WbufBxml+SS/\nneHvhOU37Pl44ER5E2xvIMb4IIySYBbnlryvEvun/G5MxEMS/MLoLNzvspZ58dws\npo+IGLfLgccFGy2QHZkCpltvs02r8Anv7T+6ZzuCxLcrgZ9+rzUSwQKBgDqtxccS\nh7ytkthuYikRiuwOh3CVKokvBzslqrpdkEREK4N+B1zKtWoij/tF+MdivSGjWW21\nlbJWWFBSpeRLpV0qyWxpgvT/2Qsn+JZyllR1po/QhYIG16lGoKD39/XMqFZ3uV1c\n7gZXsnrqeYGqdLcpS1DkrDt4CCHsi0/R7XvBAoGAIHXWhPXxSzJri6sfYMpqnQwF\n6SrzfznmwLsTFMPo8wOvwZbnI8IphIZtxnF1AcrQ/RQGLtcIQixPl4GhWO7v5Im7\nno0RmLbfTu6bNvYvqo4tKJ5x2F85G6v7ErEDRV77bVSSX1qUp9gtsSDv/arTRMAM\nsa5N0RKxmTg4EIFx6Gk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spotify-wrapped-test@my-spotify-wrapped-test-398417.iam.gserviceaccount.com",
+  "client_id": "105996854879961249237",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spotify-wrapped-test%40my-spotify-wrapped-test-398417.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
